@@ -1,3 +1,4 @@
+// Bryan Daniel and Lenny
 public class PremiumAccount implements IAccount {
     private int accountNumber;
     private double balance;

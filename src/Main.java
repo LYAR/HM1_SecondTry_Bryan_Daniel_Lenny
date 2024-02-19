@@ -1,5 +1,4 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+// Bryan Daniel and Lenny
 public class Main {
     public static void main(String[] args) {
         // Create the bank
